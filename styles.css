@@ -1,0 +1,45 @@
+body{
+    background-color:  #000000;
+    margin: 0 !important;
+}
+.Navbar a {
+    font-weight: 500;
+    padding-top: 20px;
+    padding-left: 20px;
+    color: #fff;
+    font-size: 20px;
+    font-family: Roboto, Noto Naskh Arabic UI, Arial, sans-serif;
+    text-decoration: none;
+}
+.Navbar button{
+    padding-top: 20px;
+    padding-left: 20px;
+}
+.Navbar img{
+    position: absolute;
+    top: 50%;
+    padding-left: 10px;
+    transform: translate(0%,-50%);
+}
+.Search{
+    background-image : image("on_platform_logo_dark-vfl_PUy2j.svg");
+}
+.Navbar  {
+    position: fixed;
+    background-color: #1d1d1d;
+    height: 65px;
+    width: 100%;
+}
+.Navbar-centered {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    left: 50%;
+    top: 50%;
+
+
+
+
+}
+
+
+
